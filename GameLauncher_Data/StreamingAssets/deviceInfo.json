@@ -1,0 +1,8 @@
+{
+  "DeviceID": "Unknown",
+  "DeviceLocation": "Unknown",
+  "LaunchTimeoutSeconds": "10",
+  "CloseGameIdleTimeSeconds": "300",
+  "LastPing": "",
+  "Log": []
+}
